@@ -1,5 +1,4 @@
 # Time Table
-Visualization of a time table as a circle
 
 This is a representaion of time tables as circles with joints using PyGame.
 # Hot Keys
